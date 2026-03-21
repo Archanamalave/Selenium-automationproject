@@ -1,0 +1,450 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="0" failed="0" skipped="7">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-03-20T17:35:49 IST" name="Automation Practice Test Suite" finished-at="2026-03-20T17:35:54 IST" duration-ms="4109">
+    <groups>
+      <group name="sanity">
+        <method signature="LoginTest3.loginCSVTest(com.Ui.pojo.User)[pri:0, instance:com.Ui.tests.LoginTest3@6da00fb9]" name="loginCSVTest" class="com.Ui.tests.LoginTest3"/>
+        <method signature="LoginTest3.loginExcelTest(com.Ui.pojo.User)[pri:0, instance:com.Ui.tests.LoginTest3@6da00fb9]" name="loginExcelTest" class="com.Ui.tests.LoginTest3"/>
+        <method signature="LoginTest3.loginExcelTest1(com.Ui.pojo.User)[pri:0, instance:com.Ui.tests.LoginTest3@6da00fb9]" name="loginExcelTest1" class="com.Ui.tests.LoginTest3"/>
+        <method signature="LoginTest3.loginTest(com.Ui.pojo.User)[pri:0, instance:com.Ui.tests.LoginTest3@6da00fb9]" name="loginTest" class="com.Ui.tests.LoginTest3"/>
+      </group> <!-- sanity -->
+      <group name="e2e">
+        <method signature="LoginTest3.loginCSVTest(com.Ui.pojo.User)[pri:0, instance:com.Ui.tests.LoginTest3@6da00fb9]" name="loginCSVTest" class="com.Ui.tests.LoginTest3"/>
+        <method signature="LoginTest3.loginExcelTest(com.Ui.pojo.User)[pri:0, instance:com.Ui.tests.LoginTest3@6da00fb9]" name="loginExcelTest" class="com.Ui.tests.LoginTest3"/>
+        <method signature="LoginTest3.loginExcelTest1(com.Ui.pojo.User)[pri:0, instance:com.Ui.tests.LoginTest3@6da00fb9]" name="loginExcelTest1" class="com.Ui.tests.LoginTest3"/>
+        <method signature="LoginTest3.loginTest(com.Ui.pojo.User)[pri:0, instance:com.Ui.tests.LoginTest3@6da00fb9]" name="loginTest" class="com.Ui.tests.LoginTest3"/>
+      </group> <!-- e2e -->
+    </groups>
+    <test started-at="2026-03-20T17:35:49 IST" name="UI Automation Test" finished-at="2026-03-20T17:35:54 IST" duration-ms="4109">
+      <class name="com.Ui.tests.LoginTest3">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.Ui.tests.LoginTest3@6da00fb9]" started-at="2026-03-20T17:35:51 IST" name="setup" description="Load the homepage " finished-at="2026-03-20T17:35:51 IST" duration-ms="57" status="FAIL">
+          <exception class="java.lang.Error">
+            <message>
+              <![CDATA[Unresolved compilation problems: 
+The method equalsIgnoreCase(String) is undefined for the type Browser
+The method equalsIgnoreCase(String) is undefined for the type Browser
+The method equalsIgnoreCase(String) is undefined for the type Browser
+]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.Error: Unresolved compilation problems: 
+The method equalsIgnoreCase(String) is undefined for the type Browser
+The method equalsIgnoreCase(String) is undefined for the type Browser
+The method equalsIgnoreCase(String) is undefined for the type Browser
+
+at com.Utility.BrowserUtility.<init>(BrowserUtility.java:37)
+at com.Ui.pages.HomePage.<init>(HomePage.java:25)
+at com.Ui.tests.TestBase.setup(TestBase.java:20)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:71)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:400)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:333)
+at org.testng.internal.invokers.TestInvoker.runConfigMethods(TestInvoker.java:846)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:611)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:1005)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+at org.testng.internal.thread.graph.TestNGFutureTask.run(TestNGFutureTask.java:22)
+at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+at java.base/java.lang.Thread.run(Thread.java:1570)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.Error -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginCSVTest(com.Ui.pojo.User)[pri:0, instance:com.Ui.tests.LoginTest3@6da00fb9]" started-at="2026-03-20T17:35:51 IST" name="loginCSVTest" description="Verifys login test with valid credentials " data-provider="LoginTestCSVDataProvider" finished-at="2026-03-20T17:35:51 IST" duration-ms="0" status="SKIP">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[User [Name=null, emailAdress=null, getName()=null, getEmailAdress()=null]]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.Error">
+            <message>
+              <![CDATA[Unresolved compilation problems: 
+The method equalsIgnoreCase(String) is undefined for the type Browser
+The method equalsIgnoreCase(String) is undefined for the type Browser
+The method equalsIgnoreCase(String) is undefined for the type Browser
+]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.Error: Unresolved compilation problems: 
+The method equalsIgnoreCase(String) is undefined for the type Browser
+The method equalsIgnoreCase(String) is undefined for the type Browser
+The method equalsIgnoreCase(String) is undefined for the type Browser
+
+at com.Utility.BrowserUtility.<init>(BrowserUtility.java:37)
+at com.Ui.pages.HomePage.<init>(HomePage.java:25)
+at com.Ui.tests.TestBase.setup(TestBase.java:20)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:71)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:400)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:333)
+at org.testng.internal.invokers.TestInvoker.runConfigMethods(TestInvoker.java:846)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:611)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:1005)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+at org.testng.internal.thread.graph.TestNGFutureTask.run(TestNGFutureTask.java:22)
+at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+at java.base/java.lang.Thread.run(Thread.java:1570)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.Error -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginCSVTest -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.Ui.tests.LoginTest3@6da00fb9]" started-at="2026-03-20T17:35:51 IST" name="setup" description="Load the homepage " finished-at="2026-03-20T17:35:51 IST" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.Ui.tests.LoginTest3@6da00fb9]" started-at="2026-03-20T17:35:51 IST" name="setup" description="Load the homepage " finished-at="2026-03-20T17:35:51 IST" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginExcelTest1(com.Ui.pojo.User)[pri:0, instance:com.Ui.tests.LoginTest3@6da00fb9]" started-at="2026-03-20T17:35:51 IST" name="loginExcelTest1" description="Verifys login test with valid credentials " data-provider="LoginTestDataProvider" finished-at="2026-03-20T17:35:51 IST" duration-ms="0" status="SKIP">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[User [Name=aaa, emailAdress=aaa12@gmail.com, getName()=aaa, getEmailAdress()=aaa12@gmail.com]]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.Error">
+            <message>
+              <![CDATA[Unresolved compilation problems: 
+The method equalsIgnoreCase(String) is undefined for the type Browser
+The method equalsIgnoreCase(String) is undefined for the type Browser
+The method equalsIgnoreCase(String) is undefined for the type Browser
+]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.Error: Unresolved compilation problems: 
+The method equalsIgnoreCase(String) is undefined for the type Browser
+The method equalsIgnoreCase(String) is undefined for the type Browser
+The method equalsIgnoreCase(String) is undefined for the type Browser
+
+at com.Utility.BrowserUtility.<init>(BrowserUtility.java:37)
+at com.Ui.pages.HomePage.<init>(HomePage.java:25)
+at com.Ui.tests.TestBase.setup(TestBase.java:20)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:71)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:400)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:333)
+at org.testng.internal.invokers.TestInvoker.runConfigMethods(TestInvoker.java:846)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:611)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:1005)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+at org.testng.internal.thread.graph.TestNGFutureTask.run(TestNGFutureTask.java:22)
+at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+at java.base/java.lang.Thread.run(Thread.java:1570)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.Error -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginExcelTest1 -->
+        <test-method signature="loginTest(com.Ui.pojo.User)[pri:0, instance:com.Ui.tests.LoginTest3@6da00fb9]" started-at="2026-03-20T17:35:51 IST" name="loginTest" description="Verifys login test with valid credentials " data-provider="LoginTestDataProvider" finished-at="2026-03-20T17:35:51 IST" duration-ms="11" status="SKIP">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[User [Name=aaa, emailAdress=aaa12@gmail.com, getName()=aaa, getEmailAdress()=aaa12@gmail.com]]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.Error">
+            <message>
+              <![CDATA[Unresolved compilation problems: 
+The method equalsIgnoreCase(String) is undefined for the type Browser
+The method equalsIgnoreCase(String) is undefined for the type Browser
+The method equalsIgnoreCase(String) is undefined for the type Browser
+]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.Error: Unresolved compilation problems: 
+The method equalsIgnoreCase(String) is undefined for the type Browser
+The method equalsIgnoreCase(String) is undefined for the type Browser
+The method equalsIgnoreCase(String) is undefined for the type Browser
+
+at com.Utility.BrowserUtility.<init>(BrowserUtility.java:37)
+at com.Ui.pages.HomePage.<init>(HomePage.java:25)
+at com.Ui.tests.TestBase.setup(TestBase.java:20)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:71)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:400)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:333)
+at org.testng.internal.invokers.TestInvoker.runConfigMethods(TestInvoker.java:846)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:611)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:1005)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+at org.testng.internal.thread.graph.TestNGFutureTask.run(TestNGFutureTask.java:22)
+at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+at java.base/java.lang.Thread.run(Thread.java:1570)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.Error -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.Ui.tests.LoginTest3@6da00fb9]" started-at="2026-03-20T17:35:51 IST" name="setup" description="Load the homepage " finished-at="2026-03-20T17:35:51 IST" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.Ui.tests.LoginTest3@6da00fb9]" started-at="2026-03-20T17:35:51 IST" name="setup" description="Load the homepage " finished-at="2026-03-20T17:35:51 IST" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.Ui.tests.LoginTest3@6da00fb9]" started-at="2026-03-20T17:35:51 IST" name="setup" description="Load the homepage " finished-at="2026-03-20T17:35:51 IST" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginCSVTest(com.Ui.pojo.User)[pri:0, instance:com.Ui.tests.LoginTest3@6da00fb9]" started-at="2026-03-20T17:35:51 IST" name="loginCSVTest" description="Verifys login test with valid credentials " data-provider="LoginTestCSVDataProvider" finished-at="2026-03-20T17:35:51 IST" duration-ms="2" status="SKIP">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[User [Name=null, emailAdress=null, getName()=null, getEmailAdress()=null]]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.Error">
+            <message>
+              <![CDATA[Unresolved compilation problems: 
+The method equalsIgnoreCase(String) is undefined for the type Browser
+The method equalsIgnoreCase(String) is undefined for the type Browser
+The method equalsIgnoreCase(String) is undefined for the type Browser
+]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.Error: Unresolved compilation problems: 
+The method equalsIgnoreCase(String) is undefined for the type Browser
+The method equalsIgnoreCase(String) is undefined for the type Browser
+The method equalsIgnoreCase(String) is undefined for the type Browser
+
+at com.Utility.BrowserUtility.<init>(BrowserUtility.java:37)
+at com.Ui.pages.HomePage.<init>(HomePage.java:25)
+at com.Ui.tests.TestBase.setup(TestBase.java:20)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:71)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:400)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:333)
+at org.testng.internal.invokers.TestInvoker.runConfigMethods(TestInvoker.java:846)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:611)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:1005)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+at org.testng.internal.thread.graph.TestNGFutureTask.run(TestNGFutureTask.java:22)
+at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+at java.base/java.lang.Thread.run(Thread.java:1570)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.Error -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginCSVTest -->
+        <test-method signature="loginExcelTest1(com.Ui.pojo.User)[pri:0, instance:com.Ui.tests.LoginTest3@6da00fb9]" started-at="2026-03-20T17:35:51 IST" name="loginExcelTest1" description="Verifys login test with valid credentials " data-provider="LoginTestDataProvider" finished-at="2026-03-20T17:35:51 IST" duration-ms="1" status="SKIP">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[User [Name=aaa1, emailAdress=aaa122@gmail.com, getName()=aaa1, getEmailAdress()=aaa122@gmail.com]]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.Error">
+            <message>
+              <![CDATA[Unresolved compilation problems: 
+The method equalsIgnoreCase(String) is undefined for the type Browser
+The method equalsIgnoreCase(String) is undefined for the type Browser
+The method equalsIgnoreCase(String) is undefined for the type Browser
+]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.Error: Unresolved compilation problems: 
+The method equalsIgnoreCase(String) is undefined for the type Browser
+The method equalsIgnoreCase(String) is undefined for the type Browser
+The method equalsIgnoreCase(String) is undefined for the type Browser
+
+at com.Utility.BrowserUtility.<init>(BrowserUtility.java:37)
+at com.Ui.pages.HomePage.<init>(HomePage.java:25)
+at com.Ui.tests.TestBase.setup(TestBase.java:20)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:71)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:400)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:333)
+at org.testng.internal.invokers.TestInvoker.runConfigMethods(TestInvoker.java:846)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:611)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:1005)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+at org.testng.internal.thread.graph.TestNGFutureTask.run(TestNGFutureTask.java:22)
+at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+at java.base/java.lang.Thread.run(Thread.java:1570)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.Error -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginExcelTest1 -->
+        <test-method signature="loginTest(com.Ui.pojo.User)[pri:0, instance:com.Ui.tests.LoginTest3@6da00fb9]" started-at="2026-03-20T17:35:51 IST" name="loginTest" description="Verifys login test with valid credentials " data-provider="LoginTestDataProvider" finished-at="2026-03-20T17:35:51 IST" duration-ms="0" status="SKIP">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[User [Name=aaa1, emailAdress=aaa122@gmail.com, getName()=aaa1, getEmailAdress()=aaa122@gmail.com]]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.Error">
+            <message>
+              <![CDATA[Unresolved compilation problems: 
+The method equalsIgnoreCase(String) is undefined for the type Browser
+The method equalsIgnoreCase(String) is undefined for the type Browser
+The method equalsIgnoreCase(String) is undefined for the type Browser
+]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.Error: Unresolved compilation problems: 
+The method equalsIgnoreCase(String) is undefined for the type Browser
+The method equalsIgnoreCase(String) is undefined for the type Browser
+The method equalsIgnoreCase(String) is undefined for the type Browser
+
+at com.Utility.BrowserUtility.<init>(BrowserUtility.java:37)
+at com.Ui.pages.HomePage.<init>(HomePage.java:25)
+at com.Ui.tests.TestBase.setup(TestBase.java:20)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:71)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:400)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:333)
+at org.testng.internal.invokers.TestInvoker.runConfigMethods(TestInvoker.java:846)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:611)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:1005)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+at org.testng.internal.thread.graph.TestNGFutureTask.run(TestNGFutureTask.java:22)
+at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+at java.base/java.lang.Thread.run(Thread.java:1570)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.Error -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.Ui.tests.LoginTest3@6da00fb9]" started-at="2026-03-20T17:35:54 IST" name="setup" description="Load the homepage " finished-at="2026-03-20T17:35:54 IST" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginExcelTest(com.Ui.pojo.User)[pri:0, instance:com.Ui.tests.LoginTest3@6da00fb9]" started-at="2026-03-20T17:35:54 IST" name="loginExcelTest" description="Verifys login test with valid credentials " data-provider="LoginTestExcelDataProvider" finished-at="2026-03-20T17:35:54 IST" duration-ms="0" status="SKIP">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[User [Name=null, emailAdress=null, getName()=null, getEmailAdress()=null]]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.Error">
+            <message>
+              <![CDATA[Unresolved compilation problems: 
+The method equalsIgnoreCase(String) is undefined for the type Browser
+The method equalsIgnoreCase(String) is undefined for the type Browser
+The method equalsIgnoreCase(String) is undefined for the type Browser
+]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.Error: Unresolved compilation problems: 
+The method equalsIgnoreCase(String) is undefined for the type Browser
+The method equalsIgnoreCase(String) is undefined for the type Browser
+The method equalsIgnoreCase(String) is undefined for the type Browser
+
+at com.Utility.BrowserUtility.<init>(BrowserUtility.java:37)
+at com.Ui.pages.HomePage.<init>(HomePage.java:25)
+at com.Ui.tests.TestBase.setup(TestBase.java:20)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:71)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:400)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:333)
+at org.testng.internal.invokers.TestInvoker.runConfigMethods(TestInvoker.java:846)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:611)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:1005)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+at org.testng.internal.thread.graph.TestNGFutureTask.run(TestNGFutureTask.java:22)
+at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+at java.base/java.lang.Thread.run(Thread.java:1570)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.Error -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginExcelTest -->
+      </class> <!-- com.Ui.tests.LoginTest3 -->
+    </test> <!-- UI Automation Test -->
+  </suite> <!-- Automation Practice Test Suite -->
+</testng-results>
