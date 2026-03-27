@@ -3,15 +3,14 @@ package com.Ui.pojo;
 import java.util.Map;
 
 public class Config {
-	
-	
-   Map<String, Environment>environments;
 
-public Map<String, Environment> getEnvironment() {
-	return environments;
-}
+    private Map<String, Environment> environment;
 
-public void setEnvironment(Map<String, Environment> environment) {
-	this.environments = environment;
-}
+    public Map<String, Environment> getEnvironment() {
+        return environment;
+    }
+
+    public void setEnvironment(Map<String, Environment> environment) {
+        this.environment = environment;
+    }
 }

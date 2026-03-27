@@ -598,3 +598,320 @@ Session ID: 632370d521f03b1b036ff64f5a442d11
 2026-03-21 10:07:12 [main] ERROR com.Ui.listener.TestListner - null
 2026-03-21 10:07:12 [main] INFO  com.Ui.listener.TestListner - Capturing Screenshots for failed tests
 2026-03-21 10:07:12 [main] INFO  com.Ui.listener.TestListner - Test  Suites Completed
+2026-03-23 23:38:59 [main] INFO  com.Ui.listener.TestListner - Test  Suites Started
+2026-03-23 23:39:00 [main] INFO  com.Ui.tests.LoginTest3 - load the homepage od website
+2026-03-23 23:39:06 [main] INFO  com.Ui.listener.TestListner - loginTest
+2026-03-23 23:39:06 [main] INFO  com.Ui.listener.TestListner - Verifys login test with valid credentials 
+2026-03-23 23:39:06 [main] INFO  com.Ui.listener.TestListner - [e2e, sanity]
+2026-03-23 23:39:06 [main] WARN  com.Ui.listener.TestListner - loginTestSkipped
+2026-03-23 23:39:06 [main] INFO  com.Ui.listener.TestListner - loginTest
+2026-03-23 23:39:06 [main] INFO  com.Ui.listener.TestListner - Verifys login test with valid credentials 
+2026-03-23 23:39:06 [main] INFO  com.Ui.listener.TestListner - [e2e, sanity]
+2026-03-23 23:39:06 [main] WARN  com.Ui.listener.TestListner - loginTestSkipped
+2026-03-23 23:39:06 [main] INFO  com.Ui.listener.TestListner - Test  Suites Completed
+2026-03-24 21:23:21 [main] INFO  com.Ui.listener.TestListner - Test  Suites Started
+2026-03-24 21:23:21 [main] INFO  com.Ui.tests.LoginTest3 - load the homepage od website
+2026-03-24 21:23:29 [main] INFO  com.Ui.listener.TestListner - loginTest
+2026-03-24 21:23:29 [main] INFO  com.Ui.listener.TestListner - Verifys login test with valid credentials 
+2026-03-24 21:23:29 [main] INFO  com.Ui.listener.TestListner - [e2e, sanity]
+2026-03-24 21:23:29 [main] WARN  com.Ui.listener.TestListner - loginTestSkipped
+2026-03-24 21:23:29 [main] INFO  com.Ui.listener.TestListner - loginTest
+2026-03-24 21:23:29 [main] INFO  com.Ui.listener.TestListner - Verifys login test with valid credentials 
+2026-03-24 21:23:29 [main] INFO  com.Ui.listener.TestListner - [e2e, sanity]
+2026-03-24 21:23:29 [main] WARN  com.Ui.listener.TestListner - loginTestSkipped
+2026-03-24 21:23:29 [main] INFO  com.Ui.listener.TestListner - Test  Suites Completed
+2026-03-24 21:33:29 [main] INFO  com.Ui.listener.TestListner - Test  Suites Started
+2026-03-24 21:33:29 [main] INFO  com.Ui.tests.LoginTest3 - load the homepage od website
+2026-03-24 21:33:32 [main] INFO  com.Ui.listener.TestListner - loginTest
+2026-03-24 21:33:32 [main] INFO  com.Ui.listener.TestListner - Verifys login test with valid credentials 
+2026-03-24 21:33:32 [main] INFO  com.Ui.listener.TestListner - [e2e, sanity]
+2026-03-24 21:33:32 [main] WARN  com.Ui.listener.TestListner - loginTestSkipped
+2026-03-24 21:33:32 [main] INFO  com.Ui.listener.TestListner - loginTest
+2026-03-24 21:33:32 [main] INFO  com.Ui.listener.TestListner - Verifys login test with valid credentials 
+2026-03-24 21:33:32 [main] INFO  com.Ui.listener.TestListner - [e2e, sanity]
+2026-03-24 21:33:32 [main] WARN  com.Ui.listener.TestListner - loginTestSkipped
+2026-03-24 21:33:32 [main] INFO  com.Ui.listener.TestListner - Test  Suites Completed
+2026-03-24 21:37:05 [main] INFO  com.Ui.listener.TestListner - Test  Suites Started
+2026-03-24 21:37:05 [main] INFO  com.Ui.tests.LoginTest3 - load the homepage od website
+2026-03-24 21:37:08 [main] INFO  com.Ui.listener.TestListner - loginTest
+2026-03-24 21:37:08 [main] INFO  com.Ui.listener.TestListner - Verifys login test with valid credentials 
+2026-03-24 21:37:08 [main] INFO  com.Ui.listener.TestListner - [e2e, sanity]
+2026-03-24 21:37:08 [main] WARN  com.Ui.listener.TestListner - loginTestSkipped
+2026-03-24 21:37:08 [main] INFO  com.Ui.listener.TestListner - loginTest
+2026-03-24 21:37:08 [main] INFO  com.Ui.listener.TestListner - Verifys login test with valid credentials 
+2026-03-24 21:37:08 [main] INFO  com.Ui.listener.TestListner - [e2e, sanity]
+2026-03-24 21:37:08 [main] WARN  com.Ui.listener.TestListner - loginTestSkipped
+2026-03-24 21:37:09 [main] INFO  com.Ui.listener.TestListner - Test  Suites Completed
+2026-03-24 21:41:33 [main] INFO  com.Ui.listener.TestListner - Test  Suites Started
+2026-03-24 21:41:33 [main] INFO  com.Ui.tests.LoginTest3 - load the homepage od website
+2026-03-24 21:41:36 [main] INFO  com.Ui.listener.TestListner - loginTest
+2026-03-24 21:41:36 [main] INFO  com.Ui.listener.TestListner - Verifys login test with valid credentials 
+2026-03-24 21:41:36 [main] INFO  com.Ui.listener.TestListner - [e2e, sanity]
+2026-03-24 21:41:36 [main] WARN  com.Ui.listener.TestListner - loginTestSkipped
+2026-03-24 21:41:36 [main] INFO  com.Ui.listener.TestListner - loginTest
+2026-03-24 21:41:36 [main] INFO  com.Ui.listener.TestListner - Verifys login test with valid credentials 
+2026-03-24 21:41:36 [main] INFO  com.Ui.listener.TestListner - [e2e, sanity]
+2026-03-24 21:41:36 [main] WARN  com.Ui.listener.TestListner - loginTestSkipped
+2026-03-24 21:41:36 [main] INFO  com.Ui.listener.TestListner - Test  Suites Completed
+2026-03-24 21:42:49 [main] INFO  com.Ui.listener.TestListner - Test  Suites Started
+2026-03-24 21:42:50 [main] INFO  com.Ui.tests.LoginTest3 - load the homepage od website
+2026-03-24 21:42:53 [main] INFO  com.Ui.listener.TestListner - loginTest
+2026-03-24 21:42:53 [main] INFO  com.Ui.listener.TestListner - Verifys login test with valid credentials 
+2026-03-24 21:42:53 [main] INFO  com.Ui.listener.TestListner - [e2e, sanity]
+2026-03-24 21:42:53 [main] WARN  com.Ui.listener.TestListner - loginTestSkipped
+2026-03-24 21:42:53 [main] INFO  com.Ui.listener.TestListner - loginTest
+2026-03-24 21:42:53 [main] INFO  com.Ui.listener.TestListner - Verifys login test with valid credentials 
+2026-03-24 21:42:53 [main] INFO  com.Ui.listener.TestListner - [e2e, sanity]
+2026-03-24 21:42:53 [main] WARN  com.Ui.listener.TestListner - loginTestSkipped
+2026-03-24 21:42:53 [main] INFO  com.Ui.listener.TestListner - Test  Suites Completed
+2026-03-24 21:43:07 [main] INFO  com.Ui.listener.TestListner - Test  Suites Started
+2026-03-24 21:43:08 [main] INFO  com.Ui.tests.LoginTest3 - load the homepage od website
+2026-03-24 21:43:12 [main] INFO  com.Ui.listener.TestListner - loginTest
+2026-03-24 21:43:12 [main] INFO  com.Ui.listener.TestListner - Verifys login test with valid credentials 
+2026-03-24 21:43:12 [main] INFO  com.Ui.listener.TestListner - [e2e, sanity]
+2026-03-24 21:43:12 [main] WARN  com.Ui.listener.TestListner - loginTestSkipped
+2026-03-24 21:43:12 [main] INFO  com.Ui.listener.TestListner - loginTest
+2026-03-24 21:43:12 [main] INFO  com.Ui.listener.TestListner - Verifys login test with valid credentials 
+2026-03-24 21:43:12 [main] INFO  com.Ui.listener.TestListner - [e2e, sanity]
+2026-03-24 21:43:12 [main] WARN  com.Ui.listener.TestListner - loginTestSkipped
+2026-03-24 21:43:12 [main] INFO  com.Ui.listener.TestListner - Test  Suites Completed
+2026-03-24 21:43:53 [main] INFO  com.Ui.listener.TestListner - Test  Suites Started
+2026-03-24 21:43:54 [main] INFO  com.Ui.tests.LoginTest3 - load the homepage od website
+2026-03-24 21:43:57 [main] INFO  com.Ui.listener.TestListner - loginTest
+2026-03-24 21:43:57 [main] INFO  com.Ui.listener.TestListner - Verifys login test with valid credentials 
+2026-03-24 21:43:57 [main] INFO  com.Ui.listener.TestListner - [e2e, sanity]
+2026-03-24 21:43:57 [main] WARN  com.Ui.listener.TestListner - loginTestSkipped
+2026-03-24 21:43:57 [main] INFO  com.Ui.listener.TestListner - loginTest
+2026-03-24 21:43:57 [main] INFO  com.Ui.listener.TestListner - Verifys login test with valid credentials 
+2026-03-24 21:43:57 [main] INFO  com.Ui.listener.TestListner - [e2e, sanity]
+2026-03-24 21:43:57 [main] WARN  com.Ui.listener.TestListner - loginTestSkipped
+2026-03-24 21:43:57 [main] INFO  com.Ui.listener.TestListner - Test  Suites Completed
+2026-03-24 21:45:44 [main] INFO  com.Ui.listener.TestListner - Test  Suites Started
+2026-03-24 21:45:45 [main] INFO  com.Ui.tests.LoginTest3 - load the homepage od website
+2026-03-24 21:45:48 [main] INFO  com.Ui.pages.HomePage - Visisting the Websitenull
+2026-03-24 21:45:48 [main] INFO  com.Ui.listener.TestListner - loginTest
+2026-03-24 21:45:48 [main] INFO  com.Ui.listener.TestListner - Verifys login test with valid credentials 
+2026-03-24 21:45:48 [main] INFO  com.Ui.listener.TestListner - [e2e, sanity]
+2026-03-24 21:45:48 [main] WARN  com.Ui.listener.TestListner - loginTestSkipped
+2026-03-24 21:45:48 [main] INFO  com.Ui.listener.TestListner - loginTest
+2026-03-24 21:45:48 [main] INFO  com.Ui.listener.TestListner - Verifys login test with valid credentials 
+2026-03-24 21:45:48 [main] INFO  com.Ui.listener.TestListner - [e2e, sanity]
+2026-03-24 21:45:48 [main] WARN  com.Ui.listener.TestListner - loginTestSkipped
+2026-03-24 21:45:48 [main] INFO  com.Ui.listener.TestListner - Test  Suites Completed
+2026-03-24 21:46:14 [main] INFO  com.Ui.listener.TestListner - Test  Suites Started
+2026-03-24 21:46:15 [main] INFO  com.Ui.tests.LoginTest3 - load the homepage od website
+2026-03-24 21:46:18 [main] INFO  com.Ui.pages.HomePage - Visisting the Websitenull
+2026-03-24 21:46:18 [main] INFO  com.Ui.listener.TestListner - loginTest
+2026-03-24 21:46:18 [main] INFO  com.Ui.listener.TestListner - Verifys login test with valid credentials 
+2026-03-24 21:46:18 [main] INFO  com.Ui.listener.TestListner - [e2e, sanity]
+2026-03-24 21:46:18 [main] WARN  com.Ui.listener.TestListner - loginTestSkipped
+2026-03-24 21:46:18 [main] INFO  com.Ui.listener.TestListner - loginTest
+2026-03-24 21:46:18 [main] INFO  com.Ui.listener.TestListner - Verifys login test with valid credentials 
+2026-03-24 21:46:18 [main] INFO  com.Ui.listener.TestListner - [e2e, sanity]
+2026-03-24 21:46:18 [main] WARN  com.Ui.listener.TestListner - loginTestSkipped
+2026-03-24 21:46:18 [main] INFO  com.Ui.listener.TestListner - Test  Suites Completed
+2026-03-24 21:47:56 [main] INFO  com.Ui.listener.TestListner - Test  Suites Started
+2026-03-24 21:47:56 [main] INFO  com.Ui.tests.LoginTest3 - load the homepage od website
+2026-03-24 21:47:59 [main] INFO  com.Ui.pages.HomePage - Visisting the Websitenull
+2026-03-24 21:47:59 [main] INFO  com.Ui.listener.TestListner - loginTest
+2026-03-24 21:47:59 [main] INFO  com.Ui.listener.TestListner - Verifys login test with valid credentials 
+2026-03-24 21:47:59 [main] INFO  com.Ui.listener.TestListner - [e2e, sanity]
+2026-03-24 21:47:59 [main] WARN  com.Ui.listener.TestListner - loginTestSkipped
+2026-03-24 21:47:59 [main] INFO  com.Ui.listener.TestListner - loginTest
+2026-03-24 21:47:59 [main] INFO  com.Ui.listener.TestListner - Verifys login test with valid credentials 
+2026-03-24 21:47:59 [main] INFO  com.Ui.listener.TestListner - [e2e, sanity]
+2026-03-24 21:47:59 [main] WARN  com.Ui.listener.TestListner - loginTestSkipped
+2026-03-24 21:48:00 [main] INFO  com.Ui.listener.TestListner - Test  Suites Completed
+2026-03-24 21:50:21 [main] INFO  com.Ui.listener.TestListner - Test  Suites Started
+2026-03-24 21:50:21 [main] INFO  com.Ui.tests.LoginTest3 - load the homepage od website
+2026-03-24 21:50:24 [main] INFO  com.Ui.pages.HomePage - Visisting the Websitehttps://automationexercise.com/
+2026-03-24 21:50:27 [main] INFO  com.Ui.listener.TestListner - loginTest
+2026-03-24 21:50:27 [main] INFO  com.Ui.listener.TestListner - Verifys login test with valid credentials 
+2026-03-24 21:50:27 [main] INFO  com.Ui.listener.TestListner - [e2e, sanity]
+2026-03-24 21:50:27 [main] INFO  com.Ui.pages.HomePage - Trying to perform signin
+2026-03-24 21:50:29 [main] ERROR com.Ui.listener.TestListner - loginTestFailed
+2026-03-24 21:50:29 [main] ERROR com.Ui.listener.TestListner - no such element: Unable to locate element: {"method":"xpath","selector":"//b[text()='Enter Account Information']"}
+  (Session info: chrome=146.0.7680.154)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.40.0', revision: 'b3333f1'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [70168c18a13e2ac4512759d7c49d823f, findElement {using=xpath, value=//b[text()='Enter Account Information']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 146.0.7680.154, chrome: {chromedriverVersion: 146.0.7680.165 (4b989da09e1..., userDataDir: C:\Users\armalve\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63315}, goog:processID: 22452, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63315/devtoo..., se:cdpVersion: 146.0.7680.154, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 70168c18a13e2ac4512759d7c49d823f
+2026-03-24 21:50:29 [main] INFO  com.Ui.listener.TestListner - Capturing Screenshots for failed tests
+2026-03-24 21:50:29 [main] ERROR com.Ui.listener.TestListner - loginTestFailed
+2026-03-24 21:50:29 [main] ERROR com.Ui.listener.TestListner - null
+2026-03-24 21:50:29 [main] INFO  com.Ui.listener.TestListner - Capturing Screenshots for failed tests
+2026-03-24 21:50:29 [main] INFO  com.Ui.listener.TestListner - Test  Suites Completed
+2026-03-24 22:14:41 [main] INFO  com.Ui.listener.TestListner - Test  Suites Started
+2026-03-24 22:14:42 [main] INFO  com.Ui.tests.LoginTest3 - load the homepage od website
+2026-03-24 22:14:44 [main] INFO  com.Ui.pages.HomePage - Visisting the Websitehttps://automationexercise.com/
+2026-03-24 22:14:47 [main] INFO  com.Ui.listener.TestListner - loginTest
+2026-03-24 22:14:47 [main] INFO  com.Ui.listener.TestListner - Verifys login test with valid credentials 
+2026-03-24 22:14:47 [main] INFO  com.Ui.listener.TestListner - [e2e, sanity]
+2026-03-24 22:14:47 [main] INFO  com.Ui.pages.HomePage - Trying to perform signin
+2026-03-24 22:14:49 [main] ERROR com.Ui.listener.TestListner - loginTestFailed
+2026-03-24 22:14:49 [main] ERROR com.Ui.listener.TestListner - no such element: Unable to locate element: {"method":"xpath","selector":"//b[text()='Enter Account Information']"}
+  (Session info: chrome=146.0.7680.154)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.40.0', revision: 'b3333f1'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [c997eaedc366a1cd7d04968ae026c51f, findElement {value=//b[text()='Enter Account Information'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 146.0.7680.154, chrome: {chromedriverVersion: 146.0.7680.165 (4b989da09e1..., userDataDir: C:\Users\armalve\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57101}, goog:processID: 18908, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57101/devtoo..., se:cdpVersion: 146.0.7680.154, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: c997eaedc366a1cd7d04968ae026c51f
+2026-03-24 22:14:49 [main] INFO  com.Ui.listener.TestListner - Capturing Screenshots for failed tests
+2026-03-24 22:14:49 [main] INFO  com.Ui.listener.TestListner - Attching  Screenshots to the html file
+2026-03-24 22:14:49 [main] INFO  com.Ui.tests.LoginTest3 - load the homepage od website
+2026-03-24 22:14:51 [main] INFO  com.Ui.pages.HomePage - Visisting the Websitehttps://automationexercise.com/
+2026-03-24 22:14:54 [main] INFO  com.Ui.listener.TestListner - loginTest
+2026-03-24 22:14:54 [main] INFO  com.Ui.listener.TestListner - Verifys login test with valid credentials 
+2026-03-24 22:14:54 [main] INFO  com.Ui.listener.TestListner - [e2e, sanity]
+2026-03-24 22:14:54 [main] INFO  com.Ui.pages.HomePage - Trying to perform signin
+2026-03-24 22:14:56 [main] INFO  com.Ui.listener.TestListner - loginTestPassed
+2026-03-24 22:14:56 [main] INFO  com.Ui.listener.TestListner - Test  Suites Completed
+2026-03-24 23:36:28 [main] INFO  com.Ui.listener.TestListner - Test  Suites Started
+2026-03-24 23:36:29 [TestNG-test-UI Automation Test-1] INFO  com.Ui.tests.LoginTest3 - load the homepage od website
+2026-03-24 23:36:34 [TestNG-test-UI Automation Test-1] INFO  com.Ui.pages.HomePage - Visisting the Websitehttps://automationexercise.com/
+2026-03-24 23:36:35 [TestNG-test-UI Automation Test-1] INFO  com.Ui.listener.TestListner - loginTest
+2026-03-24 23:36:35 [TestNG-test-UI Automation Test-1] INFO  com.Ui.listener.TestListner - Verifys login test with valid credentials 
+2026-03-24 23:36:35 [TestNG-test-UI Automation Test-1] INFO  com.Ui.listener.TestListner - [e2e, sanity]
+2026-03-24 23:36:35 [TestNG-test-UI Automation Test-1] INFO  com.Ui.pages.HomePage - Trying to perform signin
+2026-03-24 23:36:43 [TestNG-test-UI Automation Test-1] ERROR com.Ui.listener.TestListner - loginTestFailed
+2026-03-24 23:36:43 [TestNG-test-UI Automation Test-1] ERROR com.Ui.listener.TestListner - no such element: Unable to locate element: {"method":"xpath","selector":"//b[text()='Enter Account Information']"}
+  (Session info: chrome=146.0.7680.154)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.40.0', revision: 'b3333f1'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [d4e4e9eaa80331650e742bcbf2e5f1da, findElement {value=//b[text()='Enter Account Information'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 146.0.7680.154, chrome: {chromedriverVersion: 146.0.7680.165 (4b989da09e1..., userDataDir: C:\Users\armalve\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63271}, goog:processID: 32316, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63271/devtoo..., se:cdpVersion: 146.0.7680.154, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d4e4e9eaa80331650e742bcbf2e5f1da
+2026-03-24 23:36:43 [TestNG-test-UI Automation Test-1] INFO  com.Ui.listener.TestListner - Capturing Screenshots for failed tests
+2026-03-24 23:36:43 [TestNG-test-UI Automation Test-1] INFO  com.Ui.listener.TestListner - Attching  Screenshots to the html file
+2026-03-24 23:36:43 [TestNG-test-UI Automation Test-1] INFO  com.Ui.tests.LoginTest3 - load the homepage od website
+2026-03-24 23:36:46 [TestNG-test-UI Automation Test-1] INFO  com.Ui.pages.HomePage - Visisting the Websitehttps://automationexercise.com/
+2026-03-24 23:36:48 [TestNG-test-UI Automation Test-1] INFO  com.Ui.listener.TestListner - loginTest
+2026-03-24 23:36:48 [TestNG-test-UI Automation Test-1] INFO  com.Ui.listener.TestListner - Verifys login test with valid credentials 
+2026-03-24 23:36:48 [TestNG-test-UI Automation Test-1] INFO  com.Ui.listener.TestListner - [e2e, sanity]
+2026-03-24 23:36:48 [TestNG-test-UI Automation Test-1] INFO  com.Ui.pages.HomePage - Trying to perform signin
+2026-03-24 23:36:51 [TestNG-test-UI Automation Test-1] INFO  com.Ui.listener.TestListner - loginTestPassed
+2026-03-24 23:36:51 [main] INFO  com.Ui.listener.TestListner - Test  Suites Completed
+2026-03-24 23:39:44 [main] INFO  com.Ui.listener.TestListner - Test  Suites Started
+2026-03-24 23:40:25 [TestNG-test-UI Automation Test-1] INFO  com.Ui.pages.HomePage - Visisting the Websitehttps://automationexercise.com/
+2026-03-24 23:40:27 [TestNG-test-UI Automation Test-1] INFO  com.Ui.listener.TestListner - loginTest
+2026-03-24 23:40:27 [TestNG-test-UI Automation Test-1] INFO  com.Ui.listener.TestListner - Verifys login test with valid credentials 
+2026-03-24 23:40:27 [TestNG-test-UI Automation Test-1] INFO  com.Ui.listener.TestListner - [e2e, sanity]
+2026-03-24 23:40:27 [TestNG-test-UI Automation Test-1] INFO  com.Ui.pages.HomePage - Trying to perform signin
+2026-03-24 23:41:10 [TestNG-test-UI Automation Test-1] ERROR com.Ui.listener.TestListner - loginTestFailed
+2026-03-24 23:41:10 [TestNG-test-UI Automation Test-1] ERROR com.Ui.listener.TestListner - no such element: Unable to locate element: {"method":"xpath","selector":"//b[text()='Enter Account Information']"}
+  (Session info: chrome=146.0.7680.165)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.40.0', revision: 'b3333f1'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.1'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [8d15226e29b82fa5cc97366c7b4f77d4, findElement {value=//b[text()='Enter Account Information'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 146.0.7680.165, chrome: {chromedriverVersion: 146.0.7680.165 (4b989da09e1..., userDataDir: C:\Program Files (x86)\scop...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:9225}, goog:processID: 4276, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: Windows XP, proxy: Proxy(), se:bidiEnabled: false, se:cdp: wss://cdp-mumbai.lambdatest..., se:cdpVersion: 146.0.7680.165, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 8d15226e29b82fa5cc97366c7b4f77d4
+2026-03-24 23:41:10 [TestNG-test-UI Automation Test-1] INFO  com.Ui.listener.TestListner - Capturing Screenshots for failed tests
+2026-03-24 23:41:11 [TestNG-test-UI Automation Test-1] INFO  com.Ui.listener.TestListner - Attching  Screenshots to the html file
+2026-03-24 23:42:05 [TestNG-test-UI Automation Test-1] INFO  com.Ui.pages.HomePage - Visisting the Websitehttps://automationexercise.com/
+2026-03-24 23:42:08 [TestNG-test-UI Automation Test-1] INFO  com.Ui.listener.TestListner - loginTest
+2026-03-24 23:42:08 [TestNG-test-UI Automation Test-1] INFO  com.Ui.listener.TestListner - Verifys login test with valid credentials 
+2026-03-24 23:42:08 [TestNG-test-UI Automation Test-1] INFO  com.Ui.listener.TestListner - [e2e, sanity]
+2026-03-24 23:42:08 [TestNG-test-UI Automation Test-1] INFO  com.Ui.pages.HomePage - Trying to perform signin
+2026-03-24 23:42:15 [TestNG-test-UI Automation Test-1] INFO  com.Ui.listener.TestListner - loginTestPassed
+2026-03-24 23:42:16 [main] INFO  com.Ui.listener.TestListner - Test  Suites Completed
+2026-03-25 14:06:22 [main] INFO  com.Ui.listener.TestListner - Test  Suites Started
+2026-03-25 14:06:23 [main] INFO  com.Ui.tests.LoginTest3 - load the homepage od website
+2026-03-25 14:06:26 [main] INFO  com.Ui.pages.HomePage - Visisting the Websitehttps://automationexercise.com/
+2026-03-25 14:06:31 [main] INFO  com.Ui.listener.TestListner - loginTest
+2026-03-25 14:06:31 [main] INFO  com.Ui.listener.TestListner - Verifys login test with valid credentials 
+2026-03-25 14:06:31 [main] INFO  com.Ui.listener.TestListner - [e2e, sanity]
+2026-03-25 14:06:31 [main] INFO  com.Ui.pages.HomePage - Trying to perform signin
+2026-03-25 14:06:32 [main] ERROR com.Ui.listener.TestListner - loginTestFailed
+2026-03-25 14:06:33 [main] ERROR com.Ui.listener.TestListner - no such element: Unable to locate element: {"method":"xpath","selector":"//b[text()='Enter Account Information']"}
+  (Session info: chrome=146.0.7680.154)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.40.0', revision: 'b3333f1'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [376b7dc9136c218cc02e189eaba8bd6c, findElement {using=xpath, value=//b[text()='Enter Account Information']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 146.0.7680.154, chrome: {chromedriverVersion: 146.0.7680.165 (4b989da09e1..., userDataDir: C:\Users\armalve\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49332}, goog:processID: 5048, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:49332/devtoo..., se:cdpVersion: 146.0.7680.154, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 376b7dc9136c218cc02e189eaba8bd6c
+2026-03-25 14:06:33 [main] INFO  com.Ui.listener.TestListner - Capturing Screenshots for failed tests
+2026-03-25 14:06:33 [main] INFO  com.Ui.listener.TestListner - Attching  Screenshots to the html file
+2026-03-25 14:06:33 [main] INFO  com.Ui.tests.LoginTest3 - load the homepage od website
+2026-03-25 14:06:35 [main] INFO  com.Ui.pages.HomePage - Visisting the Websitehttps://automationexercise.com/
+2026-03-25 14:06:37 [main] INFO  com.Ui.listener.TestListner - loginTest
+2026-03-25 14:06:37 [main] INFO  com.Ui.listener.TestListner - Verifys login test with valid credentials 
+2026-03-25 14:06:37 [main] INFO  com.Ui.listener.TestListner - [e2e, sanity]
+2026-03-25 14:06:37 [main] INFO  com.Ui.pages.HomePage - Trying to perform signin
+2026-03-25 14:06:38 [main] INFO  com.Ui.listener.TestListner - loginTestPassed
+2026-03-25 14:06:38 [main] INFO  com.Ui.listener.TestListner - Test  Suites Completed
+2026-03-25 22:31:42 [main] INFO  com.Ui.listener.TestListner - Test  Suites Started
+2026-03-25 22:31:43 [main] INFO  com.Ui.tests.LoginTest3 - load the homepage od website
+2026-03-25 22:31:47 [main] INFO  com.Ui.pages.HomePage - Visisting the Websitehttps://automationexercise.com/
+2026-03-25 22:31:51 [main] INFO  com.Ui.listener.TestListner - loginTest
+2026-03-25 22:31:51 [main] INFO  com.Ui.listener.TestListner - Verifys login test with valid credentials 
+2026-03-25 22:31:51 [main] INFO  com.Ui.listener.TestListner - [e2e, sanity]
+2026-03-25 22:31:51 [main] INFO  com.Ui.pages.HomePage - Trying to perform signin
+2026-03-25 22:31:55 [main] ERROR com.Ui.listener.TestListner - loginTestFailed
+2026-03-25 22:31:55 [main] ERROR com.Ui.listener.TestListner - element click intercepted: Element <button type="submit" data-qa="signup-button" class="btn btn-default">...</button> is not clickable at point (572, 420). Other element would receive the click: <iframe id="aswift_2" name="aswift_2" style="min-height: auto; max-height: none; min-width: auto; max-width: none; width: 728px !important; height: 90px !important; display: block; margin: 0px auto;" sandbox="allow-forms allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts allow-top-navigation-by-user-activation" width="728" height="90" frameborder="0" marginwidth="0" marginheight="0" vspace="0" hspace="0" allowtransparency="true" scrolling="no" allow="attribution-reporting; run-ad-auction" src="https://googleads.g.doubleclick.net/pagead/html/r20260324/r20190131/zrt_lookup_fy2021.html#RS-1-&amp;adk=1812271801&amp;client=ca-pub-1677597403311019&amp;fa=1&amp;ifi=3&amp;uci=a!3&amp;btvi=2" data-google-container-id="a!3" tabindex="0" title="Advertisement" aria-label="Advertisement" data-google-query-id="CNv6sMvDu5MDFVZGOAUdGHwxVQ" data-load-complete="true"></iframe>
+  (Session info: chrome=146.0.7680.154)
+Build info: version: '4.40.0', revision: 'b3333f1'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [3325025bdc4ae89b31bff5003a44e3a8, clickElement {id=f.D7C70708D5A5E0B186AEB48343C428F1.d.634FADB966C9A3BEF5777B67DF652CB0.e.72}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 146.0.7680.154, chrome: {chromedriverVersion: 146.0.7680.165 (4b989da09e1..., userDataDir: C:\Users\armalve\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49948}, goog:processID: 2252, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:49948/devtoo..., se:cdpVersion: 146.0.7680.154, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (3325025bdc4ae89b31bff5003a44e3a8)] -> xpath: //button[@data-qa="signup-button"]]
+Session ID: 3325025bdc4ae89b31bff5003a44e3a8
+2026-03-25 22:31:55 [main] INFO  com.Ui.listener.TestListner - Capturing Screenshots for failed tests
+2026-03-25 22:31:55 [main] INFO  com.Ui.listener.TestListner - Attching  Screenshots to the html file
+2026-03-25 22:31:55 [main] INFO  com.Ui.tests.LoginTest3 - load the homepage od website
+2026-03-25 22:31:57 [main] INFO  com.Ui.pages.HomePage - Visisting the Websitehttps://automationexercise.com/
+2026-03-25 22:32:01 [main] INFO  com.Ui.listener.TestListner - loginTest
+2026-03-25 22:32:01 [main] INFO  com.Ui.listener.TestListner - Verifys login test with valid credentials 
+2026-03-25 22:32:01 [main] INFO  com.Ui.listener.TestListner - [e2e, sanity]
+2026-03-25 22:32:01 [main] INFO  com.Ui.pages.HomePage - Trying to perform signin
+2026-03-25 22:32:04 [main] ERROR com.Ui.listener.TestListner - loginTestFailed
+2026-03-25 22:32:04 [main] ERROR com.Ui.listener.TestListner - element click intercepted: Element <button type="submit" data-qa="signup-button" class="btn btn-default">...</button> is not clickable at point (572, 420). Other element would receive the click: <iframe id="aswift_3" name="aswift_3" style="min-height: auto; max-height: none; min-width: auto; max-width: none; width: 728px !important; height: 90px !important; display: block; margin: 0px auto;" sandbox="allow-forms allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts allow-top-navigation-by-user-activation" width="728" height="90" frameborder="0" marginwidth="0" marginheight="0" vspace="0" hspace="0" allowtransparency="true" scrolling="no" allow="attribution-reporting; run-ad-auction" src="https://googleads.g.doubleclick.net/pagead/html/r20260324/r20190131/zrt_lookup_fy2021.html#RS-1-&amp;adk=1812271801&amp;client=ca-pub-1677597403311019&amp;fa=1&amp;ifi=4&amp;uci=a!4&amp;btvi=3" data-google-container-id="a!4" tabindex="0" title="Advertisement" aria-label="Advertisement" data-google-query-id="CNGnjdDDu5MDFZKeSwUdgdAxOQ"></iframe>
+  (Session info: chrome=146.0.7680.154)
+Build info: version: '4.40.0', revision: 'b3333f1'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [9972f391e12fefd374b6893c907d3b92, clickElement {id=f.BADDAACC26F14031E082B9C30B20D311.d.382450906AEE509BD78EAD6A167B1533.e.98}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 146.0.7680.154, chrome: {chromedriverVersion: 146.0.7680.165 (4b989da09e1..., userDataDir: C:\Users\armalve\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55068}, goog:processID: 27484, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55068/devtoo..., se:cdpVersion: 146.0.7680.154, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (9972f391e12fefd374b6893c907d3b92)] -> xpath: //button[@data-qa="signup-button"]]
+Session ID: 9972f391e12fefd374b6893c907d3b92
+2026-03-25 22:32:04 [main] INFO  com.Ui.listener.TestListner - Capturing Screenshots for failed tests
+2026-03-25 22:32:04 [main] INFO  com.Ui.listener.TestListner - Attching  Screenshots to the html file
+2026-03-25 22:32:04 [main] INFO  com.Ui.listener.TestListner - Test  Suites Completed
+2026-03-25 22:32:48 [main] INFO  com.Ui.listener.TestListner - Test  Suites Started
+2026-03-25 22:32:48 [main] INFO  com.Ui.tests.LoginTest3 - load the homepage od website
+2026-03-25 22:32:51 [main] INFO  com.Ui.pages.HomePage - Visisting the Websitehttps://automationexercise.com/
+2026-03-25 22:32:56 [main] INFO  com.Ui.listener.TestListner - loginTest
+2026-03-25 22:32:56 [main] INFO  com.Ui.listener.TestListner - Verifys login test with valid credentials 
+2026-03-25 22:32:56 [main] INFO  com.Ui.listener.TestListner - [e2e, sanity]
+2026-03-25 22:32:56 [main] INFO  com.Ui.pages.HomePage - Trying to perform signin
+2026-03-25 22:32:59 [main] ERROR com.Ui.listener.TestListner - loginTestFailed
+2026-03-25 22:32:59 [main] ERROR com.Ui.listener.TestListner - element click intercepted: Element <button type="submit" data-qa="signup-button" class="btn btn-default">...</button> is not clickable at point (572, 420). Other element would receive the click: <iframe id="aswift_2" name="aswift_2" style="min-height: auto; max-height: none; min-width: auto; max-width: none; width: 728px !important; height: 90px !important; display: block; margin: 0px auto;" sandbox="allow-forms allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts allow-top-navigation-by-user-activation" width="728" height="90" frameborder="0" marginwidth="0" marginheight="0" vspace="0" hspace="0" allowtransparency="true" scrolling="no" allow="attribution-reporting; run-ad-auction" src="https://googleads.g.doubleclick.net/pagead/html/r20260324/r20190131/zrt_lookup_fy2021.html#RS-1-&amp;adk=1812271801&amp;client=ca-pub-1677597403311019&amp;fa=1&amp;ifi=3&amp;uci=a!3&amp;btvi=2" data-google-container-id="a!3" tabindex="0" title="Advertisement" aria-label="Advertisement" data-google-query-id="CJTNkOrDu5MDFduCZgIdvdAQxQ" data-load-complete="true"></iframe>
+  (Session info: chrome=146.0.7680.154)
+Build info: version: '4.40.0', revision: 'b3333f1'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [b0f606039d4d207612c08f6c243c1f10, clickElement {id=f.FD0715520D17719030C066F49722B32F.d.4DE8E9A8F8BC2B4BD5525ACF1247394F.e.71}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 146.0.7680.154, chrome: {chromedriverVersion: 146.0.7680.165 (4b989da09e1..., userDataDir: C:\Users\armalve\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57959}, goog:processID: 20388, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57959/devtoo..., se:cdpVersion: 146.0.7680.154, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (b0f606039d4d207612c08f6c243c1f10)] -> xpath: //button[@data-qa="signup-button"]]
+Session ID: b0f606039d4d207612c08f6c243c1f10
+2026-03-25 22:32:59 [main] INFO  com.Ui.listener.TestListner - Capturing Screenshots for failed tests
+2026-03-25 22:32:59 [main] INFO  com.Ui.listener.TestListner - Attching  Screenshots to the html file
+2026-03-25 22:32:59 [main] INFO  com.Ui.tests.LoginTest3 - load the homepage od website
+2026-03-25 22:33:02 [main] INFO  com.Ui.pages.HomePage - Visisting the Websitehttps://automationexercise.com/
+2026-03-25 22:33:06 [main] INFO  com.Ui.listener.TestListner - loginTest
+2026-03-25 22:33:06 [main] INFO  com.Ui.listener.TestListner - Verifys login test with valid credentials 
+2026-03-25 22:33:06 [main] INFO  com.Ui.listener.TestListner - [e2e, sanity]
+2026-03-25 22:33:06 [main] INFO  com.Ui.pages.HomePage - Trying to perform signin
+2026-03-25 22:33:13 [main] INFO  com.Ui.listener.TestListner - loginTestPassed
+2026-03-25 22:33:13 [main] INFO  com.Ui.listener.TestListner - Test  Suites Completed

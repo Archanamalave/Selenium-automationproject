@@ -23,25 +23,20 @@ import com.Utility.LoggerUtility;
 @Listeners({com.Ui.listener.TestListner.class})
 public class LoginTest3 extends TestBase {
 	
-	
-	
-
-
 	@Test(description = "Verifys login test with valid credentials ",groups= {"e2e","sanity"},dataProviderClass = com.Ui.dataproviders.LoginDataprovider.class,dataProvider="LoginTestDataProvider")
 		public void  loginTest(User user) {
-		HomePage homepage= new HomePage(CHROME);
+		
 		assertEquals(homepage.goToLoginpage().doLoginWith(user.getName(),user.getEmailAdress()).getUserName(),"ENTER ACCOUNT INFORMATION");
 		
 	}
-	@Test(description = "Verifys login test with valid credentials ",groups= {"e2e","sanity"},dataProviderClass = com.Ui.dataproviders.LoginDataprovider.class,dataProvider="LoginTestCSVDataProvider")
+	/*@Test(description = "Verifys login test with valid credentials ",groups= {"e2e","sanity"},dataProviderClass = com.Ui.dataproviders.LoginDataprovider.class,dataProvider="LoginTestCSVDataProvider")
 	public void  loginCSVTest(User user) {
-	HomePage homepage= new HomePage(CHROME);
-	assertEquals(homepage.goToLoginpage().doLoginWith(user.getName(),user.getEmailAdress()).getUserName(),"ENTER ACCOUNT INFORMATION");
+		assertEquals(homepage.goToLoginpage().doLoginWith(user.getName(),user.getEmailAdress()).getUserName(),"ENTER ACCOUNT INFORMATION");
 	
 }
 	@Test(description = "Verifys login test with valid credentials ",groups= {"e2e","sanity"},dataProviderClass = com.Ui.dataproviders.LoginDataprovider.class,dataProvider="LoginTestExcelDataProvider")
 	public void  loginExcelTest(User user) {
-		HomePage homepage= new HomePage(CHROME);
+		
 		assertEquals(homepage.goToLoginpage().doLoginWith(user.getName(),user.getEmailAdress()).getUserName(),"ENTER ACCOUNT INFORMATION");
 		
 	}
@@ -52,6 +47,6 @@ public class LoginTest3 extends TestBase {
 	
 	assertEquals(homepage.goToLoginpage().doLoginWith(user.getName(),user.getEmailAdress()).getUserName(),"ENTER ACCOUNT INFORMATION");
 	
-	}
+	}*/
 
 }

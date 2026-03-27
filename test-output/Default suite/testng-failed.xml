@@ -5,8 +5,9 @@
     <classes>
       <class name="com.Ui.tests.LoginTest3">
         <methods>
-          <include name="loginExcelTest" invocation-numbers="0"/>
           <include name="setup"/>
+          <include name="loginTest" invocation-numbers="0"/>
+          <include name="tearDown"/>
         </methods>
       </class> <!-- com.Ui.tests.LoginTest3 -->
     </classes>

@@ -23,10 +23,15 @@ public class HomePage extends BrowserUtility {
 	
 	public HomePage(Browser browsername,boolean isHeadless) {
 		super(browsername,isHeadless);// to call parent class to child class constructor
-		goToWebsite(readproperty(QA, "URL"));
-		//goToWebsite(JSONUtility.readJson(QA).getUrl());
+		//goToWebsite(readproperty(QA, "URL"));
+		goToWebsite(JSONUtility.readJson(QA).getUrl());
 		
 	}
+	public HomePage(WebDriver driver) {
+		super(driver);//to call parent class constructor
+		goToWebsite(JSONUtility.readJson(QA).getUrl());
+	}
+	
 
 	
 public LoginPage goToLoginpage() {//-----pagefunctions(in page fn we cannot return void )
@@ -34,6 +39,10 @@ public LoginPage goToLoginpage() {//-----pagefunctions(in page fn we cannot retu
 	clickOn(Sing_In_xpath_Locator);
 	LoginPage Loginpage = new LoginPage(getDriver());
 	return Loginpage;
+}
+public void quite() {
+	// TODO Auto-generated method stub
+	
 }
 
 

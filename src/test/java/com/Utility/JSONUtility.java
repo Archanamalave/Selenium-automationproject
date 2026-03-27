@@ -23,6 +23,7 @@ public class JSONUtility {
 		}
 		Config config = gson.fromJson(fileReader, Config.class);
 		Environment environment= config.getEnvironment().get("QA");
+		//Environment environment = config.getEnvironment().get(env.toString());
 		return environment;
 	}
 }

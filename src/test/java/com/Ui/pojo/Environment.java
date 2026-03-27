@@ -1,7 +1,7 @@
 package com.Ui.pojo;
 
 public class Environment {
-         private String url;
+         private String URL;
          private int MAX_NUMBER_OF_ATTEMPTS;
      
 
@@ -14,10 +14,10 @@ public class Environment {
 		}
 
 		public String getUrl() {
-			return url;
+			return URL;
 		}
 
 		public void setUrl(String url) {
-			this.url = url;
+			this.URL = url;
 		}
 }

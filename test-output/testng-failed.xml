@@ -1,17 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
-<suite thread-count="8" parallel="methods" name="Failed suite [Automation Practice Test Suite]" guice-stage="DEVELOPMENT">
-  <test thread-count="8" parallel="methods" name="UI Automation Test(failed)">
+<suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Default test(failed)">
     <classes>
       <class name="com.Ui.tests.LoginTest3">
         <methods>
-          <include name="loginExcelTest"/>
           <include name="setup"/>
-          <include name="loginExcelTest1"/>
-          <include name="loginCSVTest"/>
-          <include name="loginTest"/>
+          <include name="loginTest" invocation-numbers="0"/>
+          <include name="tearDown"/>
         </methods>
       </class> <!-- com.Ui.tests.LoginTest3 -->
     </classes>
-  </test> <!-- UI Automation Test(failed) -->
-</suite> <!-- Failed suite [Automation Practice Test Suite] -->
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
